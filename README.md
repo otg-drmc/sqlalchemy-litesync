@@ -1,0 +1,1 @@
+A Litesync SQLAlchemy dialect
